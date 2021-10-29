@@ -1,4 +1,4 @@
-# Prácticas para la asignatura Biometría
+# Prácticas para la asignatura Visión por computador
 
 ## Descripción 🚀
 
